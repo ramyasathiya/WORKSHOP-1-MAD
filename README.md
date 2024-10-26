@@ -268,7 +268,7 @@ OUTPUT:
 
 
 RESULT:
-```
+
 Thus a Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
-```
+
 
