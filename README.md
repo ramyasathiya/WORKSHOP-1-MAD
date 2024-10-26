@@ -25,7 +25,8 @@ Step 7: Save and run the application.
 Program to print the text “ExplicitIntent”.
 Developed by: RAMYA S
 Registeration Number : 212222040130
-MainActivity.java:
+
+# MainActivity.java:
 ```
 package com.example.workshop;
 import android.os.Bundle;
@@ -74,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-MainActivity2.java:
+# MainActivity2.java:
 ```
 package com.example.workshop;
 
@@ -109,7 +110,7 @@ public class MainActivity2 extends AppCompatActivity {
     }
 }
 ```
-activity_main.xml:
+# activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -173,7 +174,7 @@ activity_main.xml:
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-activity_second.xml:
+# activity_second.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -224,7 +225,7 @@ activity_second.xml:
         app:layout_constraintWidth_percent="0.8" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-AndroidManifest.xml:
+# AndroidManifest.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -256,7 +257,8 @@ AndroidManifest.xml:
 ```
 OUTPUT:
 
-![WhatsApp Image 2024-10-26 at 1 29 55 PM](https://github.com/user-attachments/assets/7bce7686-88c5-4492-adb3-31e68d41eaaa)![WhatsApp Image 2024-10-26 at 1 29 57 PM](https://github.com/user-attachments/assets/fd7ef00b-d53a-4475-be25-d24f1dde1c94)
+![WhatsApp Image 2024-10-26 at 1 29 55 PM](https://github.com/user-attachments/assets/7bce7686-88c5-4492-adb3-31e68d41eaaa)
+![WhatsApp Image 2024-10-26 at 1 29 57 PM](https://github.com/user-attachments/assets/fd7ef00b-d53a-4475-be25-d24f1dde1c94)
 
 
 
