@@ -25,7 +25,6 @@ Step 7: Save and run the application.
 Program to print the text “ExplicitIntent”.
 Developed by: RAMYA S
 Registeration Number : 212222040130
-```
 MainActivity.java:
 ```
 package com.example.workshop;
@@ -257,9 +256,7 @@ AndroidManifest.xml:
 ```
 OUTPUT:
 
-![WhatsApp Image 2024-10-26 at 1 29 55 PM](https://github.com/user-attachments/assets/7bce7686-88c5-4492-adb3-31e68d41eaaa)
-
-![WhatsApp Image 2024-10-26 at 1 29 57 PM](https://github.com/user-attachments/assets/fd7ef00b-d53a-4475-be25-d24f1dde1c94)
+![WhatsApp Image 2024-10-26 at 1 29 55 PM](https://github.com/user-attachments/assets/7bce7686-88c5-4492-adb3-31e68d41eaaa)![WhatsApp Image 2024-10-26 at 1 29 57 PM](https://github.com/user-attachments/assets/fd7ef00b-d53a-4475-be25-d24f1dde1c94)
 
 
 
